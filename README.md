@@ -33,6 +33,3 @@ To install the Color Picker Chrome extension, follow these steps:
 
 Contributions to this project are welcome. If you encounter any bugs, have feature requests, or would like to contribute code improvements, please open an issue or submit a pull request to the repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
